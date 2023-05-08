@@ -3,3 +3,4 @@
 data/
 .conda/
 saved_models_manhtn/
+saved_models*
